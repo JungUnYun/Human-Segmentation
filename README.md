@@ -20,7 +20,6 @@ We find a foot of the perpendicular from skeletons. And we set the body area in 
 ## Results
 ### GUI-QT
 ![GUIimg](./img/GUI.png)
-
 ![GUIgif](./img/GUI.gif)
 
 ## Prerequisites
